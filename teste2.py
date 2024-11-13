@@ -1,6 +1,4 @@
 import streamlit as st
-import plotly.express as px
-import pandas as pd
 
 st.write('Vamos aprender streamlit juntos!')
 st.title('Este é o título do app')
